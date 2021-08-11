@@ -1,6 +1,6 @@
 .ideal
-config
-controllers
-modles
-routers
+config/
+controllers/
+models/
+routers/
 node_module/
